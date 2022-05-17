@@ -383,6 +383,8 @@ body.menu-expanded .logo {
   
 #services header h2 {
   margin-bottom: 6rem;
+  margin-inline: auto;
+  width: 31.4rem;
 }
 
 #services .cards {
